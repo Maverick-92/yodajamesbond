@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yodajamesbond
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning React.js, python
+- 🌱 I’m currently learning SQL, python
 - 📫 How to reach me discord id: Maverickk#6275
 
 <!---
